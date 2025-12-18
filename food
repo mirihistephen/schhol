@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>St. Charles Vocational S.S Kasanga</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background: #004080;
+      color: white;
+      padding: 1.5rem;
+      text-align: center;
+    }
+    nav {
+      background: #0066cc;
+      padding: 0.5rem;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 1rem;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    section {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+    }
+    footer {
+      background: #004080;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>St. Charles Vocational Secondary School</h1>
+    <p>Kasanga, Kasese District, Uganda</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#mission">Mission</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>St. Charles Vocational S.S is a community-centered institution dedicated to academic excellence, vocational training, and empowering students with practical skills for the future.</p>
+  </section>
+
+  <section id="mission">
+    <h2>Our Mission</h2>
+    <p>To empower students with knowledge, values, and vocational skills that prepare them for opportunities in life and contribute to community development.</p>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <ul>
+      <li>School notices and announcements</li>
+      <li>Event flyers and promotional materials</li>
+      <li>Educational resources</li>
+      <li>Technology initiatives (WiFi access, digital learning)</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p><strong>Email:</strong> info@stcharlesvocss.ac.ug</p>
+    <p><strong>Phone:</strong> +256-XXX-XXX-XXX</p>
+    <p><strong>Location:</strong> Kasanga, Kasese District, Uganda</p>
+  </section>
+
+  <footer>
+    <p>© 2025 St. Charles Vocational S.S Kasanga</p>
+  </footer>
+</body>
+</html>
